@@ -45,6 +45,12 @@
   이름 / 주제 / 스터디 날짜
 
   ex) Kim taegeun / 기초알고리즘 / 05.31
+  
+  <br/>
+  
+  <br/>
+  
+  <br/>
 
 # 📚 문제
 
@@ -56,13 +62,13 @@
 
 📕 코딩테스트 기출문제
 
-|        회 차        | 주     제 |                       문          제1                        |                       문          제2                        |                       문          제3                        |
+|        회    차        | 주           제 |                       문          제1                        |                       문          제2                        |                       문          제3                        |
 | :-----------------: | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1회<br />(22.05.08) |  그리디   | [[BOJ] 11047번: 동전0](https://www.acmicpc.net/problem/11047) | [[BOJ] 1931번: 회의실 배정](https://www.acmicpc.net/problem/1931) | [[BOJ] 1700번: 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |
-| 2회<br />(22.05.15) |   구 현   |  [[BOJ] 3048번: 개미](https://www.acmicpc.net/problem/3048)  | [[BOJ] 14500번: 테트로미노](https://www.acmicpc.net/problem/14500) |                              -                               |
+| 2회<br />(22.05.15) |   구   현   |  [[BOJ] 3048번: 개미](https://www.acmicpc.net/problem/3048)  | [[BOJ] 14500번: 테트로미노](https://www.acmicpc.net/problem/14500) |                              -                               |
 | 3회<br />(22.05.22) |  BFS/DFS  | [[BOJ] 1260번: DFS와 BFS](https://www.acmicpc.net/problem/11047) | [[BOJ] 1012번: 유기농 배추](https://www.acmicpc.net/problem/1012) |                              -                               |
-| 4회<br />(22.05.29) |   정 렬   |                 기초 정렬 알고리즘<br />구현                 |                                                              |                                                              |
-| 5회<br />(22.06.4)  | 이진탐색 | [[BOJ] 10816번: 숫자 카드 2](https://www.acmicpc.net/problem/10816) | [[BOJ] 2805번: 나무 자르기](https://www.acmicpc.net/problem/2805) |                              -                               |
+| 4회<br />(22.05.29) |   정   렬   |                 기초 정렬 알고리즘 구현                 |                                                              |                                                              |
+| 5회<br />(22.06.4)  | 이진 탐색 | [[BOJ] 10816번: 숫자 카드 2](https://www.acmicpc.net/problem/10816) | [[BOJ] 2805번: 나무 자르기](https://www.acmicpc.net/problem/2805) |                              -                               |
 |      6회<br />      |    DP     |                              -                               |                              -                               |                              -                               |
 
 <br/>
