@@ -62,7 +62,7 @@
 | 2회<br />(22.05.15) |   구 현   |  [[BOJ] 3048번: 개미](https://www.acmicpc.net/problem/3048)  | [[BOJ] 14500번: 테트로미노](https://www.acmicpc.net/problem/14500) |                              -                               |
 | 3회<br />(22.05.22) |  BFS/DFS  | [[BOJ] 1260번: DFS와 BFS](https://www.acmicpc.net/problem/11047) | [[BOJ] 1012번: 유기농 배추](https://www.acmicpc.net/problem/1012) |                              -                               |
 | 4회<br />(22.05.29) |   정 렬   |                 기초 정렬 알고리즘<br />구현                 |                                                              |                                                              |
-| 5회<br />(22.06.4)  | 이진 탐색 | [[BOJ] 10816번: 숫자 카드 2](https://www.acmicpc.net/problem/10816) | [[BOJ] 2805번: 나무 자르기](https://www.acmicpc.net/problem/2805) |                              -                               |
+| 5회<br />(22.06.4)  | 이진탐색 | [[BOJ] 10816번: 숫자 카드 2](https://www.acmicpc.net/problem/10816) | [[BOJ] 2805번: 나무 자르기](https://www.acmicpc.net/problem/2805) |                              -                               |
 |      6회<br />      |    DP     |                              -                               |                              -                               |                              -                               |
 
 <br/>
