@@ -3,7 +3,6 @@ n = int(input())
 step = [int(input()) for i in range(n)]
 
 #처리(DP)
-
 if n > 3:
     dp = [0] * (n+1)
     dp[0] = step[0]

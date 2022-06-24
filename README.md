@@ -69,6 +69,7 @@
 | 4회<br />(22.05.29) |   정   렬   |                 기초 정렬 알고리즘 구현                 |                                                              |                                                              |
 | 5회<br />(22.06.4)  | 이진 탐색 | [[BOJ] 10816번: 숫자 카드 2](https://www.acmicpc.net/problem/10816) | [[BOJ] 2805번: 나무 자르기](https://www.acmicpc.net/problem/2805) |                              -                               |
 |      6회<br />(22.06.23)      |    DP     |                             [[BOJ] 2748번: 피보나치수 2](https://www.acmicpc.net/problem/2748)                             | [[BOJ] 2579번:  계단오르기](https://www.acmicpc.net/problem/2579) | [[BOJ] 11726번: 2xn 타일링](https://www.acmicpc.net/problem/11726) |
+| 7회<br />(22.06.29) |  |  |  |  |
 
 
 
@@ -89,4 +90,3 @@
 * **윤현준**
 * **김도윤**
 * **김재강**
-
